@@ -17,3 +17,5 @@ The dataset consists of three months of employee attendance data, including:
 
 ## Conclusion
 The HR Analytics Project successfully analyzed employee attendance and work patterns at AtliQ Hardwares. The developed dashboard provides actionable insights into employee productivity and absenteeism, supporting data-driven decisions for workforce management.
+
+<img width="1358" height="736" alt="image" src="https://github.com/user-attachments/assets/f0f7d457-f87f-4386-83b9-99ae9f738dd5" />
